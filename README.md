@@ -11,8 +11,11 @@
 </div>
 
 <h3>
-    Программа для создании экзаменационных билетов. Используя Microsoft.Interop.Word, Microsoft.Interop.Excel.
+    Программа для создании экзаменационных билетов.
 </h3>
+<h4>
+    Используя Microsoft.Interop.Word, Microsoft.Interop.Excel.
+</h4
 <p>
     В папке Template сущесвуют шаблоны для создания билетов. 
     Требующие изменений являются файлы
