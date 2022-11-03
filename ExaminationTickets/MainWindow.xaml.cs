@@ -73,6 +73,7 @@ namespace ExaminationTickets
             pathToExcel = new FileInfo(fileNameExcel);
             pathToWord = new FileInfo(fileNameWord);
 
+
             if (pathToExcel.Exists)
             {
                 excelDocument = new ExcelDocument(pathToExcel.FullName);
