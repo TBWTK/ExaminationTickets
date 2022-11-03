@@ -23,4 +23,4 @@
     И Файл Template.docx в котором вам нужно будет вписать название своей организации.
 </p>
 
-![](https://komarev.com/ghpvc/?username=your-TBWTK)ё
+![](https://komarev.com/ghpvc/?username=your-TBWTK)
